@@ -1,0 +1,17 @@
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/bin/Debug/net7.0/Send
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/bin/Debug/net7.0/Send.deps.json
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/bin/Debug/net7.0/Send.runtimeconfig.json
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/bin/Debug/net7.0/Send.dll
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/bin/Debug/net7.0/Send.pdb
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/Send.csproj.AssemblyReference.cache
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/Send.AssemblyInfoInputs.cache
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/Send.AssemblyInfo.cs
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/Send.csproj.CoreCompileInputs.cache
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/Send.csproj.CopyComplete
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/Send.dll
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/refint/Send.dll
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/Send.pdb
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/Send.genruntimeconfig.cache
+/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Send/obj/Debug/net7.0/ref/Send.dll

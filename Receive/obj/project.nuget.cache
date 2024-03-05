@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJSa5z8n6Zt8epJtfw4SUYKJQxWUZvQwaRRTto5/geQYHK/pwKg/0S6hg3s7rE4VPHQsbedsdrTFloEh9qec5w==",
+  "success": true,
+  "projectFilePath": "/Users/chilinhm/Desktop/HaaV/RabbitMQ-app/Receive/Receive.csproj",
+  "expectedPackageFiles": [
+    "/Users/chilinhm/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/chilinhm/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/chilinhm/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
